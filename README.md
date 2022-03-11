@@ -14,8 +14,7 @@ ________________________________________________________________________________
 
 - Classes, 
 - Objects, 
-- Static methods and variables, 
-- Interfaces, 
-- Lambda expressions, 
-- Abstract classes
+- Constructors,
+- Methods
+- Attributes, 
 ___________________________________________________________________________________________________
